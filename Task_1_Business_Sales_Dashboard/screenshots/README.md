@@ -1,4 +1,4 @@
-# 📸 Dashboard Screenshots
+#  Dashboard Screenshots
 
 This folder will store screenshots of the Power BI dashboard including:
 - Overview Page
@@ -6,4 +6,4 @@ This folder will store screenshots of the Power BI dashboard including:
 - Top Products
 - Category Revenue Analysis
 
-📌 Screenshots will be added after dashboard completion.
+ Screenshots will be added after dashboard completion.

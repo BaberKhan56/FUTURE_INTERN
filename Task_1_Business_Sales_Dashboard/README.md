@@ -1,24 +1,24 @@
-# 📊 Task 1 – Business Sales Dashboard from E-commerce Data
+#  Task 1 – Business Sales Dashboard from E-commerce Data
 
-## 🔍 Problem Statement
+##  Problem Statement
 Businesses generate large volumes of e-commerce data but often fail to
 extract meaningful insights from it. This project focuses on analyzing
 sales data to identify trends, best-selling products, and high-revenue
 categories to support data-driven decision-making.
 
-## 🎯 Objective
+##  Objective
 - Identify best-selling products
 - Analyze monthly and yearly sales trends
 - Determine high-revenue categories
 - Build an interactive Power BI dashboard
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - CSV Dataset
 - DAX
 - Data Cleaning & Transformation
 
-## 📂 Dataset Information
+##  Dataset Information
 The dataset contains:
 - Order ID
 - Order Date
@@ -29,7 +29,7 @@ The dataset contains:
 - Profit
 - Region
 
-## 📊 Dashboard Features (Planned)
+##  Dashboard Features (Planned)
 - KPI cards (Total Sales, Total Profit, Quantity Sold)
 - Sales trends over time
 - Top products by sales
@@ -37,17 +37,15 @@ The dataset contains:
 - Region-wise performance
 - Interactive slicers
 
-## 📈 Business Insights (Expected)
+##  Business Insights (Expected)
 - Electronics category generates the highest revenue
 - Smartphones and laptops are top-selling products
 - Sales peak during mid-year months
 - Asia region contributes significantly to total sales
 
-## 📦 Deliverables
+##  Deliverables
 - Interactive Power BI dashboard
 - Clean dataset
 - Business insights for decision-making
 
-## ✅ Status
-Dataset prepared and dashboard development in progress.
 

@@ -1,4 +1,4 @@
-## 📈 Key Insights
+##  Key Insights
 - Electronics category generates the highest revenue.
 - Smartphones and laptops are the best-selling products.
 - Sales increase steadily from Q1 to Q3.

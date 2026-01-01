@@ -1,4 +1,4 @@
-# 📊 Task 2 – Social Media Campaign Performance Tracker
+#  Task 2 – Social Media Campaign Performance Tracker
 
 ##  Project Overview
 This project focuses on analyzing **Facebook and Instagram ad campaign data** to evaluate marketing performance and provide actionable insights. The analysis measures key metrics such as **Engagement, CTR (Click-Through Rate), CPC (Cost Per Click), and ROI (Return on Investment)** and presents them through an interactive dashboard.
