@@ -1,0 +1,31 @@
+Student_ID,Event_Name,Rating,Feedback_Text,Sentiment_Score,Sentiment
+1,Coding Workshop,5,the event was very organized and helpful,0.2,Positive
+2,Coding Workshop,4,i liked the practical sessions,0.6,Positive
+3,Coding Workshop,3,audio quality could be better,0.5,Positive
+4,Coding Workshop,5,excellent hands-on learning experience,1.0,Positive
+5,Coding Workshop,2,too long and boring,-0.525,Negative
+6,Coding Workshop,4,speakers were clear and explained well,0.09999999999999999,Positive
+7,Coding Workshop,5,loved the examples and exercises,0.7,Positive
+8,Coding Workshop,3,the pace was fast for beginners,0.2,Positive
+9,Coding Workshop,4,good content but unclear slides,0.7,Positive
+10,Coding Workshop,5,overall very useful workshop,0.195,Positive
+11,Coding Workshop,3,venue was noisy,0.0,Neutral
+12,Coding Workshop,4,enjoyed the q&a session,0.5,Positive
+13,Coding Workshop,5,mentor explained everything perfectly,1.0,Positive
+14,Coding Workshop,2,lacked interactive activities,0.0,Neutral
+15,Coding Workshop,4,learned many new concepts,0.3181818181818182,Positive
+16,Coding Workshop,5,very engaging and fun,0.41000000000000003,Positive
+17,Coding Workshop,3,some topics were skipped,0.0,Neutral
+18,Coding Workshop,4,helpful examples,0.0,Neutral
+19,Coding Workshop,5,very professional and well managed,0.13,Positive
+20,Coding Workshop,4,good structure of the session,0.7,Positive
+21,Coding Workshop,5,very informative and interactive,0.2,Positive
+22,Coding Workshop,2,needed more breaks,0.5,Positive
+23,Coding Workshop,4,enjoyed learning by doing tasks,0.5,Positive
+24,Coding Workshop,3,explanations were unclear at times,0.0,Neutral
+25,Coding Workshop,5,excellent event highly recommended,0.58,Positive
+26,Coding Workshop,4,good content and knowledgeable speakers,0.7,Positive
+27,Coding Workshop,3,a bit too long,-0.05,Negative
+28,Coding Workshop,5,very practical and easy to understand,0.31666666666666665,Positive
+29,Coding Workshop,4,learned new tools,0.13636363636363635,Positive
+30,Coding Workshop,5,mentor was very helpful,0.2,Positive
