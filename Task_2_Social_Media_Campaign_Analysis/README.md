@@ -71,8 +71,5 @@ This project demonstrates practical skills in:
 
 ---
 
-##  Submission
-This project is submitted as part of an **internship task** to demonstrate real-world marketing and data analytics capabilities.
 
----
 
